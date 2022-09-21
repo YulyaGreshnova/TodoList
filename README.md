@@ -11,8 +11,8 @@
 - AutoLayout;
 - SOLID, SOA, MVP;
 - GCD;
-- Networking, REST, URL-Session, Codable,;
-- Codable, CocoaPods;
+- Networking, REST, URL-Session, Codable;
+- CocoaPods;
 - unit-тесты
 
 # Screenshot
